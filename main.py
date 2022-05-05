@@ -11,3 +11,5 @@ gelb = (255, 255, 100)
 
 
 pygame.init()
+
+print("test")
